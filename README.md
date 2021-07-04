@@ -14,7 +14,7 @@ This is an edited clone of
 migrated for getting content from headless CMS
 [Kontent](https://kontent.ai/).
 
-![Page Screenshot](https://i.imgur.com/jVImqT2.jpg)
+![Page Screenshot](https://i.imgur.com/jVImqT2.jp)
 
 ## Features
 
