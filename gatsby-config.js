@@ -45,10 +45,10 @@ module.exports = {
       },
     },
     'gatsby-plugin-sharp',
-    {
-      resolve: 'gatsby-plugin-google-analytics',
-      options: { trackingId: '' }, // add own google analytics trackingId
-    },
+    // {
+    //   resolve: 'gatsby-plugin-google-analytics',
+    //   options: { trackingId: '' }, // add own google analytics trackingId
+    // },
     {
       resolve: 'gatsby-plugin-google-fonts',
       options: {
